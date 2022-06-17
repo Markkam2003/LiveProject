@@ -1,4 +1,4 @@
-# LiveProject
+# LiveProject #2
 
 # Introduction
 
@@ -28,4 +28,8 @@ Create and Edit Pages styling:
 Here I added placeholders to all input fields.
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/93402961/174395110-9641f6f1-3c46-40c5-be9b-6920a085b2f5.png)
+
+Here I styled The Create and Edit Pages using CSS:
+
+![Screenshot (44)](https://user-images.githubusercontent.com/93402961/174395619-4814fb9f-bb54-4ac2-a751-61b6a8c14cd5.png)
 
