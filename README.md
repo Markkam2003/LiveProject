@@ -6,6 +6,15 @@ For the last two weeks of my time at the tech academy, I worked with my peers in
 
 Below are descriptions of the stories I worked on, along with code snippets.
 
+Create and style About Page:
+
+Here I created an About Page  using Html and styled it using css.
+
+![Screenshot (38)](https://user-images.githubusercontent.com/93402961/174393145-1cea7da9-b843-477a-85a1-a7b8fd2afaf7.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/93402961/174393395-62cd9f2b-e3e7-4e76-95b4-cc8311be43ff.png)
+
+
 Create entity Model for CastMember and CRUD pages:
 Below I created an entity model for CastMember class so that cast members can be saved to the database.
 
@@ -14,6 +23,9 @@ Below I created an entity model for CastMember class so that cast members can be
 Entity Framework:
 After I created the model I used Visual Studio and EntityFramework to create Index, Edit, Create, Details, and Delete pages.
 
-![Screenshot (36)](https://user-images.githubusercontent.com/93402961/174390764-61e30214-4f95-48cb-86cb-523f69aa1358.png)
+Create and Edit Pages styling:
 
-This 
+Here I added placeholders to all input fields.
+
+![Screenshot (42)](https://user-images.githubusercontent.com/93402961/174395110-9641f6f1-3c46-40c5-be9b-6920a085b2f5.png)
+
