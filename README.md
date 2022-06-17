@@ -6,9 +6,10 @@ For the last two weeks of my time at the tech academy, I worked with my peers in
 
 Below are descriptions of the stories I worked on, along with code snippets.
 
+
 Create and style About Page:
 
-Here I created an About Page  using Html and styled it using css.
+Here I created an About Page  using Html, C# and styled it using css.
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/93402961/174393145-1cea7da9-b843-477a-85a1-a7b8fd2afaf7.png)
 
@@ -23,13 +24,21 @@ Below I created an entity model for CastMember class so that cast members can be
 Entity Framework:
 After I created the model I used Visual Studio and EntityFramework to create Index, Edit, Create, Details, and Delete pages.
 
+
 Create and Edit Pages styling:
 
 Here I added placeholders to all input fields.
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/93402961/174395110-9641f6f1-3c46-40c5-be9b-6920a085b2f5.png)
 
+
 Here I styled The Create and Edit Pages using CSS:
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/93402961/174395619-4814fb9f-bb54-4ac2-a751-61b6a8c14cd5.png)
 
+# Other Skills Learned
+-Working with a group of developers to identify front and back end bugs to the improve usability of an application.
+
+-Improving project flow by communicating about who needs to check out which files for their current story.
+
+-Learning new efficiencies from other developers by observing their workflow and asking questions.
